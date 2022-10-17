@@ -1,5 +1,7 @@
 ## Langkah-langkah memasang projek "Mini Project Afnan":
 
+![mini-project-afnan](./banner.png)
+
 ### Github:
 
 -   Download Project ini dengan menekan tombol Code, lalu pilih Download ZIP
