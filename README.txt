@@ -1,4 +1,4 @@
-## Langkah-langkah memasang projek "Mini Project Assignment":
+## Langkah-langkah memasang projek "Mini Project Afnan":
 
 -   Buka aplikasi XAMPP Control Panel, start module Apache dan MySQL,
 -   Buka localhost di Browser, ketik localhost dan pilih PHPMyAdmin,
