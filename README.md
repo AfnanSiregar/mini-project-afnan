@@ -1,4 +1,4 @@
-## Langkah-langkah memasang projek "Mini Project Assignment":
+## Langkah-langkah memasang projek "Mini Project Afnan":
 
 ### Github:
 
