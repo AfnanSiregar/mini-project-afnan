@@ -17,11 +17,11 @@
 -   Buka localhost di Browser dan buka PHPMyAdmin,
 -   Buat Database baru dengan nama: <b>db_project_muzayyin</b>
 -   Pilih database yang baru dibuat tersebut, import database melalui tab Import,
--   Di tab Import klik "choose file", cari file <b>db_project_muzayyin.sql</b> dari folder <b>mini-project-assignment</b>, kemudian impor
--   Selanjutnya, buka folder <b>mini-project-assignment</b> dengan Visual Studio Code atau Sublime Text
+-   Di tab Import klik "choose file", cari file <b>db_project_muzayyin.sql</b> dari folder <b>mini-project-afnan</b>, kemudian impor
+-   Selanjutnya, buka folder <b>mini-project-afnan</b> dengan Visual Studio Code, Sublime Text, dll
 -   Buka terminal, ketikkan command: <b>composer update</b>
--   Buat file dengan nama <b>.env</b> di folder paling luar <b>mini-project-assignment</b>,
--   Isi file <b>.env</b> dengan meng-copy isi yang ada di file <b>.env.example</b> yang ada di folder paling luar <b>mini-project-assignment</b> lalu simpan, <br>
+-   Buat file dengan nama <b>.env</b> di folder paling luar <b>mini-project-afnan</b>,
+-   Isi file <b>.env</b> dengan meng-copy isi yang ada di file <b>.env.example</b> yang ada di folder paling luar <b>mini-project-afnan</b> lalu simpan, <br>
 ![Screenshot (450)](https://user-images.githubusercontent.com/108184882/188289646-4335ac68-00f3-4d82-9629-9feb8dc2d1f4.png)
 -   Setelah di copy, paste di file <b>.env</b> dan cari <b>DB_DATABASE=Laravel</b> kemudian di ganti dengan <b>DB_DATABASE=db_project_muzayyin</b> <br>
 ![Screenshot (448)](https://user-images.githubusercontent.com/108184882/188289609-2d5a226e-3ea7-4fc7-9ba3-5d19021777fe.png)
