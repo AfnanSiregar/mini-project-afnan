@@ -27,7 +27,7 @@ jobs:
     - name: Create Database
       run: |
         mkdir -p database
-        touch database/database.sqlite
+        touch db_project_muzayyin.sql
     - name: run seeder
       run: php artisan db:seed --class=RunThisSeeder
     - name: Execute tests (Unit and Feature tests) via PHPUnit
