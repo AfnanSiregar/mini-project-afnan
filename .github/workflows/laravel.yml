@@ -31,8 +31,11 @@ jobs:
 
     - name: Execute tests (Unit and Feature tests) via PHPUnit
       env:
+        DB_HOST=localhost
+        DB_USERNAME=root
+        DB_PASSWORD=
         DB_CONNECTION: mysql
-        DB_DATABASE: db_project_muzayyin.sql
+        DB_DATABASE: db_project_muzayyin
       run: vendor/bin/phpunit
     - name: migrate
       run: php artisan migrate
