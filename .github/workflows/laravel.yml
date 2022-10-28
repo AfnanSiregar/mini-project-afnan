@@ -33,7 +33,7 @@ jobs:
       env:
         DB_CONNECTION: mysql
         DB_DATABASE: db_project_muzayyin
-      run: vendor/bin/phpunit
+      run: usr/bin/php
     - name: migrate
       run: php artisan migrate
     - name: run seeder
