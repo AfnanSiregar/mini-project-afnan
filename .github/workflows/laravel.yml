@@ -26,7 +26,7 @@ jobs:
       run: chmod -R 777 storage bootstrap/cache
     - name: Create Database
       run: |
-        mkdir -p database
+        mkdir -p mini-project-afnan
         touch db_project_muzayyin.sql
 
     - name: Execute tests (Unit and Feature tests) via PHPUnit
